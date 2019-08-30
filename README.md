@@ -31,7 +31,10 @@
 - [操作系统](https://github.com/zeanzai/java-interview-questions/blob/master/md/operate-system.md)
 - [nginx](https://github.com/zeanzai/java-interview-questions/blob/master/md/nginx.md)
 - [tomcat](https://github.com/zeanzai/java-interview-questions/blob/master/md/tomcat.md)
+- [逻辑思维](logical.md)
+- [maven](maven.md)
 
 该第三套了。。。。
+
 
 ## 其他资料

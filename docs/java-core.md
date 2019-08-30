@@ -6,6 +6,8 @@
 - 面向对象有哪些特征？
 - java的多态表现在哪里？
 - 什么是重载和重写？什么是多态？
+- Java 8流式迭代的好处?
+- 项目中用到的JDK的哪些特性?
 - == 和 equals 的区别是什么？
 - 俩对象的hashCode() 相同，那它们的equals()相同吗？为什么？
 - final、static、synchronized、volatile、transient等关键字的作用是什么？
@@ -20,3 +22,11 @@
 - Files的常用方法有哪些？
 - 引用类型是占用几个字节？
 - java中的switch选择结构可以使用数据类型的数据(JDK1.8)有哪些？
+- toString()方法什么情况下需要重写？
+- 判断对象相等时，什么情况下只需要重写 equals()，什么情况下需要重写 equals(),hashcode()？
+- 序列化和反序列化底层如何实现的（ObjectOutputStream 、ObjectInputStream、 readObject  writeObject）?
+- char和double的字节，以及在内存的分布是怎样？
+- float f = 1.4f;double d = 1.4d; 与 float f = 1.5f;double d = 1.5d; 是否为true，内存是怎样的；
+- split的源码，split("a|b|c");得出多少个数组；
+- 写个后缀表达式，为什么要设计后缀表达式，有什么好处？然后写下中缀。
+- 说下Java的克隆体系;

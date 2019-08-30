@@ -14,4 +14,8 @@
 - 迭代器 Iterator 是什么？ 和 ListIterator 有什么区别？
 - 如何确保一个集合不能被修改？
 - 浅拷贝和深拷贝的区别；
-- KMP算法（一种改进的字符串匹配算法）；
+- Set内存放的元素为什么不可以重复，内部是如何保证和实现的？
+- 说一下TreeMap的实现原理？红黑树的性质？红黑树遍历方式有哪些？如果key冲突如何解决？setColor()方法在什么时候用？什么时候会进行旋转和颜色转换？
+- ArrayList和LinkedList的删除一个元素的时间复杂度；（ArrayList是O(N)，LinkedList是O(1)）?
+- CopyOnWriteArrayList是什么?
+- HashMap在什么时候时间复杂度是O（1），什么时候是O（n），什么时候又是O（logn）？
