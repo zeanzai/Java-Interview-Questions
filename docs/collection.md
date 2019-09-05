@@ -1,6 +1,3 @@
-
-## java容器
-
 - java容器有哪些？画出类图？
 - Collection 和 Collections 有什么区别？
 - List 、 Set 、 Map 之间的区别是什么？

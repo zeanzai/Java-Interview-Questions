@@ -1,5 +1,3 @@
-## netty
-
 - 为什么选择 Netty？
 - 说说业务中，Netty 的使用场景？
 - 原生的 NIO 在 JDK 1.7 版本存在 epoll bug？

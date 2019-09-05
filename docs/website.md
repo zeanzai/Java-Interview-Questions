@@ -1,0 +1,7 @@
+- [interviews](https://github.com/kdn251/interviews)：主要看数据结构与算法章节
+- [advanced-java](https://doocs.github.io/advanced-java)
+- [前端进阶之道](https://yuchengkai.cn/docs/frontend/)
+- [Java 学习/面试指南](https://snailclimb.top/JavaGuide)
+- [JCSprout](https://crossoverjie.top/JCSprout)
+- [CS-Notes](https://cyc2018.github.io/CS-Notes/)
+- [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)

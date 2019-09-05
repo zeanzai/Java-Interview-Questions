@@ -1,5 +1,3 @@
-## mysql
-
 - 数据库三范式是什么？
 - ACID是什么？
 - group by 、 order by命令的使用需要注意什么？

@@ -1,5 +1,3 @@
-## Spring周边
-
 - Spring的理解？Spring与SpringBoot有和区别？
 - 什么是AOP、DI、IOC？
 - Spring有哪些子模块？bean的注入方式有哪些？bean的作用域有哪些？如何实现自动装配bean？Spring的bean的创建时机？依赖注入的时机？

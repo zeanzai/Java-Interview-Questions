@@ -1,4 +1,3 @@
-## 操作系统
 - Linux静态链接和动态链接；
 - 什么是IO多路复用模型（select、poll 、epoll）；
 - Linux中的grep管道用处？Linux的常用命令？

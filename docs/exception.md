@@ -1,7 +1,5 @@
-## 异常
-
 - throw 和 throws 的区别是什么？
 - final、finally、finalize的区别是什么？
 - try catch finally 中那个部分可以忽略？如果catch中return了，finally还会执行吗？
 - 常见的异常类有哪些？
-- 
+-

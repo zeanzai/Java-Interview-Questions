@@ -1,5 +1,3 @@
-## Dubbo
-
 - 什么是Dubbo？
 - 什么是RPC、如何实现RPC、RPC 的实现原理？
 - Dubbo中的SPI是什么概念？
