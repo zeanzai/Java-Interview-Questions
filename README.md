@@ -10,9 +10,15 @@
 
 - 提交
 
+
+## 如何贡献
+
+- 提issue
+
 - 提pr
 
-## 我的其他项目
+
+## 其他项目
 
 <div align="center" style="border: solid red 1px;"><br />
   <a href="https://github.com/zeanzai/Java-Linux" target="_blank">java-linux</a><br />
@@ -33,3 +39,6 @@
 
   <a href="https://zeanzai.me/java-interview-questions" target="_blank">快捷访问入口</a>
 </div>
+
+## 说明
+本文档基于docsify创建，部署在GitHub Page上面。
