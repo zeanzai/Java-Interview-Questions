@@ -63,7 +63,7 @@
 <div align="center" style="border: solid red 1px;"><br />
   <a href="https://github.com/zeanzai/Java-Linux" target="_blank">java-linux</a><br />
 
-  ![GitHub forks](https://img.shields.io/github/forks/zeanzai/java-linux?style=plastic) ![GitHub](https://img.shields.io/github/license/zeanzai/java-linux?style=plastic)
+  ![GitHub stars](https://img.shields.io/github/stars/zeanzai/Java-Linux?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/zeanzai/Java-Linux?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/zeanzai/Java-Linux?style=plastic)
 
   Java程序员的必备Linux运维技能，包括各种服务器软件的安装和运维等基本运维参考文档。
 
