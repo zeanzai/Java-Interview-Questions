@@ -30,7 +30,3 @@
 - [tomcat](markdown/tomcat.md)
 - [逻辑思维](logical.md)
 - [maven](maven.md)
-
-----
-
-- [面试材料大礼包](markdown/website.md)
