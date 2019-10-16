@@ -20,7 +20,6 @@
 
 😃 本仓库是笔者在2019年跳槽找工作时收集的面试问题，内容丰富、涉及面广，面向初级、中高级几乎所有阶段的java程序员，希望能帮助大家快速准备java面试。
 
-
 ## 使用方法
 
 😏 在阅读本仓库之前，可以先行阅读以下仓库内容，以求达到对java知识点的复习，最后再根据本仓库中的面试题目进行自测。
@@ -53,23 +52,39 @@
   - 发起PR（pull request） 请求
   - 等待作者合并
 
-## 说明
+## 欢迎
 
-本文档基于[docsify](https://docsify.js.org/#/zh-cn/)创建，部署在GitHub Page上面。
+欢迎吐槽，也欢迎各种形式的PR和Issue。
 
+## 其他
+
+- [我的个人博客](https://zeanzai.me)
 
 ## 其他项目
 
 <div align="center" style="border: solid red 1px;"><br />
-  <a href="https://github.com/zeanzai/Java-Linux" target="_blank">java-linux</a><br />
+  <a href="https://github.com/zeanzai/Computer-Science-Study-Note" target="_blank">Computer-Science-Study-Note</a><br />
+
+  ![GitHub stars](https://img.shields.io/github/stars/zeanzai/Computer-Science-Study-Note?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/zeanzai/Computer-Science-Study-Note?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/zeanzai/Computer-Science-Study-Note?style=plastic)
+
+  ❄️ 计算机科学学习笔记：高级mysql、高级redis、分布式、集群、架构、云……
+
+  <a href="https://zeanzai.me/Computer-Science-Study-Note/" target="_blank">快捷访问入口</a>
+</div>
+<br />
+<div align="center" style="border: solid red 1px;"><br />
+  <a href="https://github.com/zeanzai/Java-Linux" target="_blank">Java-Linux</a><br />
 
   ![GitHub stars](https://img.shields.io/github/stars/zeanzai/Java-Linux?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/zeanzai/Java-Linux?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/zeanzai/Java-Linux?style=plastic)
 
-  Java程序员的必备Linux运维技能，包括各种服务器软件的安装和运维等基本运维参考文档。
+  🐉 Java程序员的必备Linux运维技能，包括各种服务器软件的安装和运维等基本运维参考文档。
 
   <a href="https://zeanzai.me/Java-Linux/" target="_blank">快捷访问入口</a>
 </div>
 
+## 说明
+
+本文档基于[docsify](https://docsify.js.org/#/zh-cn/)创建，部署在GitHub Page上面。
 
 ## License
 
