@@ -31,3 +31,5 @@
 - [逻辑思维](logical.md)
 - [maven](maven.md)
 - [平安面试题](md/company/pingan.md)
+- [环金科技面试](md/company/huanjinkeji.md)
+- [自由职客面试](md/company/ziyouzhike.md)
