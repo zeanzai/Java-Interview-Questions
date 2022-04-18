@@ -60,28 +60,6 @@
 
 - [我的个人博客](https://zeanzai.me)
 
-## 其他项目
-
-<div align="center" style="border: solid red 1px;"><br />
-  <a href="https://github.com/zeanzai/Computer-Science-Study-Note" target="_blank">Computer-Science-Study-Note</a><br />
-
-  ![GitHub stars](https://img.shields.io/github/stars/zeanzai/Computer-Science-Study-Note?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/zeanzai/Computer-Science-Study-Note?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/zeanzai/Computer-Science-Study-Note?style=plastic)
-
-  ❄️ 计算机科学学习笔记：高级mysql、高级redis、分布式、集群、架构、云……
-
-  <a href="https://zeanzai.me/Computer-Science-Study-Note/" target="_blank">快捷访问入口</a>
-</div>
-<br />
-<div align="center" style="border: solid red 1px;"><br />
-  <a href="https://github.com/zeanzai/Java-Linux" target="_blank">Java-Linux</a><br />
-
-  ![GitHub stars](https://img.shields.io/github/stars/zeanzai/Java-Linux?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/zeanzai/Java-Linux?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/zeanzai/Java-Linux?style=plastic)
-
-  🐉 Java程序员的必备Linux运维技能，包括各种服务器软件的安装和运维等基本运维参考文档。
-
-  <a href="https://zeanzai.me/Java-Linux/" target="_blank">快捷访问入口</a>
-</div>
-
 ## 说明
 
 本文档基于[docsify](https://docsify.js.org/#/zh-cn/)创建，部署在GitHub Page上面。
